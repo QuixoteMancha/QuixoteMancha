@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QuixoteMancha
-- 👀 I’m interested in work on python, ruby, php, web scraping, django, flask, datamining, API buiding, process automation.
+- 👀 I’m interested in work on python, ruby, php, web scraping, django, flask, datamining, API buiding, and also on crypto projects.
 - 🌱 I’m currently learning Sinatra, a web microfamework, written on ruby.
 - 💞️ I’m looking to collaborate on several projects related to python and other programming languages.
 - 📫 You can reach me on quijote108@gmail.com
